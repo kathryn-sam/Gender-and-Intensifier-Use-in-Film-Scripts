@@ -19,3 +19,4 @@ Cleandata2.xlsx - This is a file after manual cleaning. The following changes we
   - m430 from 2003 to 1995
   - m481 from 1968 to 1967
   - m535 from 2007 to 1994
+MovieData_Spacy.xlsx - This file contains intensifier information. It is the output of the NLP.ipyn script.
