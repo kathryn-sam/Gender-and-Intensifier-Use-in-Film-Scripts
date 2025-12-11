@@ -1,4 +1,4 @@
-Cleandata1.csv - This is the datafile with data aggregated by gender. It is the output of the cleandata.rmd script.
+Cleandata1.csv - Datafile with data aggregated by gender after initial cleaning. It is the output of the cleandata.rmd script.
 
 Cleandata2.xlsx - This is a file after manual cleaning. The following changes were made:
 1) Manually removed scene descriptions and strange characters from the following rows (MovieID/CharacterGender)
