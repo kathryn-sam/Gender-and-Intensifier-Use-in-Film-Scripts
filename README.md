@@ -20,5 +20,5 @@ This includes the list of single word intensifiers as well as the dictionary of 
 
 ### AnalysisScripts
 Scripts used for data wrangling, NLP processing, and statistical analyses. Their output can be found in the ProcessedData folder.
-
+The MWE Pipeline Refinement subfolder involves refining the part-of-speech tags for multiword expressions and comparing it to a pipeline using dependency parsing.
 
